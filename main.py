@@ -6,7 +6,7 @@ import partition
 from legoParts import legoParts
 import visitorMap
 
-size = 50
+size = 64
 
 im = Image.open("input.jpg")
 im2 = Image.open("input.jpg")

@@ -50,7 +50,7 @@ class legoParts:
                         matrix[x+i][y+j] = pix_map[j, i]
         for i in range(wi):
             for j in range(hi):
-                pixelMap[j, i] = matrix[i][j]
+                pixelMap[j, size-1-i] = matrix[i][j]
         return matrix
 
 
