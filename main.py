@@ -8,8 +8,8 @@ import visitorMap
 
 size = 50
 
-im = Image.open("balance.jpg")
-im2 = Image.open("balance.jpg")
+im = Image.open("input.jpg")
+im2 = Image.open("input.jpg")
 
 im = im.convert('RGB')
 im = im.resize((size*10,size*10))
@@ -79,3 +79,4 @@ pixelMap = im.load()
 pixelMap = lego_parts_instance.concat(im, size)
 im = im.transpose(Image.ROTATE_270)
 im.show()
+im = im.save("output.jpg")
