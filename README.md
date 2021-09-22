@@ -8,5 +8,5 @@ input:
 ![Screenshot](input.jpg)
 
 output:
-![alt text](https://github.com/[koren12122]/[legoProject]/blob/[master]/output.jpg?raw=true)
+![Screenshot](output.jpg)
 
