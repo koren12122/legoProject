@@ -1,7 +1,7 @@
 # Lego Project
 
 ## description   
-the progrram take image as input and return the same image, created by lego parts 
+the program take image as input and return the same image, created by lego parts 
 
 ## example  
 input:
