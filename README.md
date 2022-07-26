@@ -1,7 +1,7 @@
 # Lego Project
 
-## description   
-the program take image as input and return the same image, created by lego parts 
+## project description   
+the program takes an image as input and returns the same image, created by lego parts 
 
 ## example  
 input:
@@ -11,4 +11,6 @@ input:
 output:
 
 ![Screenshot](output.jpg)
+
+unfortunatly, there are 2 python files missing for some reason :pensive:
 
