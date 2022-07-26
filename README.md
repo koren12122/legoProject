@@ -12,5 +12,6 @@ output:
 
 ![Screenshot](output.jpg)
 
-unfortunatly, there are 2 python files missing for some reason :pensive:
+
+### Unfortunately, there are 2 python files missing for some reason :pensive:
 
