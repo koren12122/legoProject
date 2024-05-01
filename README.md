@@ -1,7 +1,8 @@
 # Lego Project
 
-## project description   
-the program takes an image as input and returns the same image, created by lego parts 
+## Overview
+
+The Lego Project is a program designed to recreate input images using Lego parts. It employs various algorithms, including BFS and brute force, when trying to minimize the number of Lego parts needed for accurate reconstruction.
 
 ## example  
 input:
